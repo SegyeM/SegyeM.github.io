@@ -1,1 +1,1 @@
-# segyem.github.io
+# SegyeM.github.io
